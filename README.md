@@ -1,14 +1,6 @@
-# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/StarkStringGenBot)
+# Pyrogram and Telethon String Session Bot [NOBITASSTRINGGENBOT](https://t.me/NOBITA_STRING_SESSION_BOT)
 
-> A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/StringSessionBot"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="2000"></a></p>
-
-Telegram bot to generate pyrogram and telethon string session.
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-## Usage
 
 ### Deploy to Heroku
 
@@ -23,7 +15,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StringSessionBot
+   git clone https://github.com/vishalpandeynkp1/stringsession
    ```
 2. Get a `DATABASE_URL`. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -31,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 4. Enter the directory
    ```markdown
-   cd StringSessionBot
+   cd StringSession
    ```
 
 5. Install all the dependencies
@@ -76,14 +68,8 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [NOBITA ALL BOT](https://t.me/NOBITA_ALL_BOT)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [NOBITA TECH](https://t.me/NOBITA_SUPPORT)
 
-## :)
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
