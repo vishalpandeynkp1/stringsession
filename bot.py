@@ -13,7 +13,7 @@ app = Client(
     api_hash=env.API_HASH,
     bot_token=env.BOT_TOKEN,
     in_memory=True,
-    plugins={'root':'StringSessionBot'},
+    plugins={'root':'NOBITA_STRING_SESSION_BOT'},
 )
 
 
